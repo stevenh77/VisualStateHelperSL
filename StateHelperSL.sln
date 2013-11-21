@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateHelperSL", "StateHelperSL.csproj", "{41F78CEA-DC9D-470F-801E-2FE209D4A4D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateHelperSL", "StateHelperSL\StateHelperSL.csproj", "{41F78CEA-DC9D-470F-801E-2FE209D4A4D5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateHelperSL.Web", "StateHelperSL.Web\StateHelperSL.Web.csproj", "{34386D99-4528-4258-9D30-D9793BB79AF2}"
 EndProject
